@@ -28,7 +28,7 @@ export const Head = () => {
   return (
     <>
     <title>Static</title>
-    <meta property="og:title" content="About Static" />
+    <meta property="og:title" content="Static" />
     <meta property="og:description" content="Static is a beautiful CMS for your static site." />
     <meta property="og:image" content={editor} />
     <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
