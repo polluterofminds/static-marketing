@@ -19,7 +19,7 @@ const About = () => {
               Static is built by <a className="underline" href="https://polluterofminds.com" target="_blank" rel="noreferrer noopener">Justin Hunter</a> under his product studio called Mind Pollution, LLC. Static arose as a solution to a problem Justin was facing himself. He wanted to own his content, which meant having every file locally available on his computer. But he also wanted to have a beautiful writing experience when writing his blog posts. 
             </p>
             <p className="mt-8 text-xl leading-8 text-gray-500">
-              Just had tried static sites in the past, but he would always give up on them because writing posts in a code editor was horrible. Finally, in 2022, he started working on a desktop app to solve this problem for himself.
+              Justin had tried static sites in the past, but he would always give up on them because writing posts in a code editor was horrible. Finally, in 2022, he started working on a desktop app to solve this problem for himself.
             </p>
             <p className="mt-8 text-xl leading-8 text-gray-500">
               While working on writing documentation for Docasaurus, Justin finally tested the first version of his new app. It was a simple desktop app with a WYSIWYG editor layered on top of the static site content. It was a game-changer for him. 
