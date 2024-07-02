@@ -15,10 +15,10 @@ const CTA = () => {
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6">
             <a
-              href="https://polluterofminds.gumroad.com/l/iecrc"
+              href="https://tally.so/r/mK0zWz"
               className="rounded-md bg-gray-900 px-3.5 py-1.5 text-base font-semibold leading-7 text-white shadow-sm hover:bg-main focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2"
             >
-              Download now (macOS)
+              Start you 60-day free trial
             </a>           
           </div>
         </div>

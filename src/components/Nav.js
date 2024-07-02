@@ -5,9 +5,8 @@ import logo from "../images/StaticLogoTransparent.svg";
 import { Link } from "gatsby"
 
 const navigation = [
-  { name: "Product", href: "#product" },
-  { name: "Frameworks", href: "#frameworks" },
   { name: "About", href: "/about" },
+  { name: "Pricing", href: "/pricing" }
 ];
 
 const Nav = () => {
@@ -59,11 +58,7 @@ const Nav = () => {
         <div className="flex items-center justify-between">
           <a href="#" className="-m-1.5 p-1.5">
             <span className="sr-only">Your Company</span>
-            <img
-              className="h-8"
-              src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
-              alt=""
-            />
+            <img className="h-16 mb-4" src={logo} /> 
           </a>
           <button
             type="button"
